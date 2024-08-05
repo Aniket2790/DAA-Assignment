@@ -1,0 +1,3 @@
+publilc static void main() {
+
+}
